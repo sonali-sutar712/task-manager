@@ -8,7 +8,7 @@ Clone the repository to your local machine:
 
 git clone https://github.com/sonali-sutar712/task-manager.git
 
-# 2. install npm using following cmd
+# 2. install npm using following cmd (first dwonload node js from browser  )
 cd task-manager
 npm install
 
